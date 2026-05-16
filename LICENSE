@@ -1,0 +1,17 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2026 EM-Zom
+
+ Everyone is permitted to copy and distribute verbatim copies of this
+ license document, but changing it is not allowed.
+
+ The full text of the AGPL-3.0-or-later license is available at:
+ https://www.gnu.org/licenses/agpl-3.0.txt
+
+ This repository contains a Homebrew Formula that installs prebuilt
+ binaries of safenode-cli, whose source lives at:
+ https://github.com/EM-Zom/API-Gateway
+
+ Both the Formula and the binaries it installs are licensed under
+ AGPL-3.0-or-later.
